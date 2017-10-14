@@ -30,6 +30,7 @@
     opacity: .5;
     position: absolute;
     transition: all .5s ease;
+    color: #fff;
     padding: 16px;
 }
 
