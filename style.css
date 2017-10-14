@@ -13,7 +13,7 @@
 .mainAdv {
     width: 300px;
     height: 300px;
-    background: #222;
+    background: #000;
     position: relative;
     top: 24px;
     margin: 0 auto;
@@ -29,7 +29,7 @@
     background: #666;
     opacity: .5;
     position: absolute;
-    transition: all .75s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+    transition: all 2s cubic-bezier(0.18, 0.89, 0.32, 1.28);
     color: #fff;
     padding: 16px;
 }
