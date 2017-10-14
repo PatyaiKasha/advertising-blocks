@@ -7,7 +7,7 @@ document.onmouseover = function(event) {
     }
 }
 
-var adv_text = 'ADVERTISING. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita, ad, cum. Incidunt harum mollitia assumenda, maxime, unde quaerat voluptatibus. Illo temporibus aut quasi blanditiis eaque, officia quibusdam pariatur porro doloribus.';
+var adv_text = 'Блок рекламы. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita, ad, cum. Incidunt harum mollitia assumenda, maxime, unde quaerat voluptatibus. Illo temporibus aut quasi blanditiis eaque, officia quibusdam pariatur porro doloribus.';
 
 function showAdv(a) {
     if (a.offsetX > 295) {
