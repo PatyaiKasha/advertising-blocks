@@ -21,5 +21,5 @@
 # Devs:
 
 * https://github.com/lavrukev
-* https://github.com/patyaikasha - по этой ссылке проект
+* https://github.com/patyaikasha
 * https://github.com/SofiaMatchenko
