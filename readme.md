@@ -1,4 +1,4 @@
-#Описание работы рекламного блока
+# Описание работы рекламного блока
 
 1. при наведении на целевой блок, чёрного цвета,
 ![Image alt](https://github.com/PatyaiKasha/advertising-blocks/tree/master/img/for_readme_md/main_screen.png)сверху в целевом блоке появляется блок рекламы с текстом.
@@ -18,7 +18,7 @@
 ![Image alt](https://github.com/PatyaiKasha/advertising-blocks/tree/master/img/for_readme_md/left_adv.png)
 
 
-#Devs:
+# Devs:
 
 * https://github.com/lavrukev
 * https://github.com/patyaikasha - по этой ссылке проект
